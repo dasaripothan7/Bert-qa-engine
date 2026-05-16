@@ -72,7 +72,7 @@ bert-qa-engine/
 
 1. Run the Streamlit application:
    ```bash
-   streamlit run app.py
+   streamlit run bert.py
    ```
 
 2. Open your web browser and navigate to the local URL provided by Streamlit (usually `http://localhost:8501`).
